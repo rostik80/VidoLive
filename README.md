@@ -1,4 +1,4 @@
-# project on scss(sass)
+# page on scss(sass)
 **name:** VidoLive
 
 ## note
